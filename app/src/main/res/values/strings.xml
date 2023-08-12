@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MusicVideoPlayer</string>
+    <string name="music">Музыка</string>
+    <string name="video">Видео</string>
+</resources>
